@@ -79,7 +79,7 @@
         '
         'Label1
         '
-        Me.Label1.Label = "Version 3.7"
+        Me.Label1.Label = "Version 3.8"
         Me.Label1.Name = "Label1"
         '
         'Group3
@@ -107,7 +107,7 @@
         '
         'Label2
         '
-        Me.Label2.Label = "Version 3.6"
+        Me.Label2.Label = "Version 3.8"
         Me.Label2.Name = "Label2"
         '
         'FPSS
