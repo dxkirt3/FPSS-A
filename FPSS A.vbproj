@@ -29,12 +29,12 @@
     <DefineConstants>VSTO40</DefineConstants>
     <StartupObject>
     </StartupObject>
-    <IsWebBootstrapper>False</IsWebBootstrapper>
+    <IsWebBootstrapper>True</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>D:\work\VSTO\FPSS A 2\test\</PublishUrl>
-    <InstallUrl />
+    <PublishUrl>publish\</PublishUrl>
+    <InstallUrl>https://raw.githubusercontent.com/dxkirt3/FPSS-A/master/FPSS-A/publish/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.7.0.0</ApplicationVersion>
+    <ApplicationVersion>1.8.0.0</ApplicationVersion>
     <AutoIncrementApplicationRevision>false</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
