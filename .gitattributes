@@ -65,4 +65,4 @@
 *.manifest binary
 *.application binary
 *.deploy binary
-*.vtso
+*.vtso binary
